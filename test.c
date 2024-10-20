@@ -11,5 +11,6 @@ int main() {
 
     if (1) {
         printf("some experimental feature\n");
+        printf("super cool stuff\n");
     }
 }
