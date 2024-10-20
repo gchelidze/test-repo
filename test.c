@@ -8,4 +8,8 @@ int main() {
     for (i = 0; i < 10; i++) {
         printf("i = %d\n", i);
     }
+
+    if (1) {
+        printf("some experimental feature\n");
+    }
 }
