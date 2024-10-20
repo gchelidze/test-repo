@@ -9,5 +9,11 @@ int main() {
         printf("i = %d\n", i);
     }
 
+
     printf("added some very important staff for server\n");
+
+    if (1) {
+        printf("some experimental feature\n");
+        printf("super cool stuff\n");
+    }
 }
